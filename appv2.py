@@ -1,4 +1,4 @@
-# The stremlit version work on any browser more ineractive andgui based 
+# The stremlit version work on any browser more ineractive and gui based 
 
 
 import streamlit as st
