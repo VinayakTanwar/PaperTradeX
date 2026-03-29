@@ -1,0 +1,54 @@
+{
+  "balance": 8390.46,
+  "holdings": {
+    "AAPL": {
+      "quantity": 2,
+      "buy_price": 248.8,
+      "date": "2026-03-29"
+    },
+    "NVDA": {
+      "quantity": 5,
+      "buy_price": 167.52000000000004,
+      "date": "2026-03-29"
+    },
+    "GOOGL": {
+      "quantity": 1,
+      "buy_price": 274.34,
+      "date": "2026-03-29"
+    }
+  },
+  "trade_history": [
+    {
+      "ticker": "GOOGL",
+      "qty": 1,
+      "buy_price": 274.34,
+      "sell_price": 274.34,
+      "p_l": 0.0,
+      "date": "2026-03-29"
+    },
+    {
+      "ticker": "AAPL",
+      "qty": 2,
+      "buy_price": 248.8,
+      "sell_price": 248.8,
+      "p_l": 0.0,
+      "date": "2026-03-29"
+    },
+    {
+      "ticker": "AAPL",
+      "qty": 1,
+      "buy_price": 248.8,
+      "sell_price": 248.8,
+      "p_l": 0.0,
+      "date": "2026-03-29"
+    },
+    {
+      "ticker": "NVDA",
+      "qty": 5,
+      "buy_price": 167.52000000000004,
+      "sell_price": 167.52,
+      "p_l": -0.0,
+      "date": "2026-03-29"
+    }
+  ]
+}
