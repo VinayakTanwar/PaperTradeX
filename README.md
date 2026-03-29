@@ -50,6 +50,12 @@ Run the Streamlit UI:
 streamlit run appv2.py
 ```
 
+## Screenshots
+
+<img width="1919" height="980" alt="Screenshot 2026-03-29 165811" src="https://github.com/user-attachments/assets/8a627d87-40eb-42fa-95cc-7e34b760d656" />
+<img width="1919" height="980" alt="Screenshot 2026-03-29 165858" src="https://github.com/user-attachments/assets/7a443e3f-dba2-4484-a142-3842b79434b1" />
+
+
 ---
 
 ## What I learned building this
